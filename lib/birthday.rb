@@ -10,7 +10,7 @@ def happy_birthday(birthday_kids)
   end
 end
 
-def age_appropiate_birthday
-  
+def age_appropiate_birthday(age)
+  if age =
 end 
 
